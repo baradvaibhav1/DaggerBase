@@ -2,7 +2,7 @@
 
 To quickly start a new project from this boilerplate follow the next steps:
 
-* Download this [repository as a zip](https://github.com/baradvaibhav1/DaggerBase).
+* Download this [repository as a zip](https://github.com/baradvaibhav1/DaggerBase/archive/master.zip).
 * Change the package name. 
   * Rename packages in main, androidTest and test using Android Studio.
   * In `app/build.gradle` file, `packageName` and `testInstrumentationRunner`.
